@@ -6,8 +6,8 @@ app_name = "api"
 
 urlpatterns = [
     path(
-        "get_quiz_question/",
+        "quiz_service/",
         QuestionViewSet.as_view(),
-        name="get_quiz_question",
+        name="quiz_service",
     ),
 ]
