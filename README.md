@@ -60,7 +60,8 @@ docker-compose exec backend python manage.py createsuperuser
 **Проект будет доступен по адресу -  http://localhost:8000/api/quiz_service/**
 ***
 ##### **Пример запроса API:**
-![example](https://github.com/VlKazmin/Bewise.ai-test-task/assets/121579342/06d98457-919a-44bf-8160-e3b2158654e4)
+![Example](https://github.com/VlKazmin/Bewise.ai-test-task/assets/121579342/5429c541-3878-4965-a448-19865fa54e5e)
+
 
 
 
